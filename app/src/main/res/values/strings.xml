@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digital Aide Identifier</string>
+    <string name="objectidentifier">Object Identifier</string>
+    <string name="textidentifier">Text Identifier</string>
+</resources>
